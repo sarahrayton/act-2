@@ -15,10 +15,10 @@ else
 }
 include'lib/connection.php';
 ?>
-<!DOCTYPE html>
-<html lang="en">zfgz;llgSa;kdnkan;dS
+<!DOCTYPE html>njj
+<html lang="en">zfgz;llgSa;kdnkan;dSg
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8">srty
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
