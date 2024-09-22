@@ -1,13 +1,13 @@
 <?php
  include'header.php';
- SESSION_START();
+ SESSION_START();aksdfakfdmadkmfagi
 
 if(isset($_SESSION['auth']))
 {
    if($_SESSION['auth']!=1)
    {
        header("location:login.php");
-   }
+   }gi
 }
 else
 {
